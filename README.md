@@ -1,3 +1,4 @@
+![Screenshot 2025-05-25 122924](https://github.com/user-attachments/assets/0554ee11-d17b-40ba-815a-d95ebf4b7ee1)
 ## Android App for Database Creation Using SQLite (Java)
 This Android application provides a comprehensive solution for creating, managing, and interacting with a local SQLite database using Java. Below is a detailed description suitable for a README file.
 **Overview**
